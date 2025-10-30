@@ -1,4 +1,4 @@
-# day0
+# day-0
 
 --> I Have downloaded and configured the Flutter SDK on my system.
 
