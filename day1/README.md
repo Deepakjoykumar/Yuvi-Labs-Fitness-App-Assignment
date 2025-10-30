@@ -1,6 +1,6 @@
 # day-1
 
---> Learned how to make the Flutter project file structure.
+--> Learned how to make the Flutter project file structure. See in the code form 
 Eg: 
 
    day1/
