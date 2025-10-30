@@ -1,16 +1,11 @@
-# day2
+# day-2
 
-A new Flutter project.
+--> Got a RenderFlex error in pixels and learned why it happens.
 
-## Getting Started
+--> Solved the layout issue by splitting the UI into four layers.
 
-This project is a starting point for a Flutter application.
+--> Practiced arranging widgets so they don't overflow the screen.
 
-A few resources to get you started if this is your first Flutter project:
+--> Worked on a circular progress area and made it functional.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+--> Learning step by step and fixing issues and learning many things.
