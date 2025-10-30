@@ -1,16 +1,40 @@
-# day1
+# day-1
 
-A new Flutter project.
+--> Learned how to make the Flutter project file structure.
+Eg: 
 
-## Getting Started
+   day1/
+│
+├── lib/
+│   ├── main.dart
+│   │
+│   ├── models/
+│   │   ├── user.dart
+│   │   └── product.dart
+│   │
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   └── profile_screen.dart
+│   │
+│   └── widgets/
+│       ├── custom_button.dart
+│       └── custom_card.dart
+│
+├── assets/
+│   ├── images/
+│   │   ├── logo.png
+│   │   └── banner.jpg
+│   │
+│   └── icons/
+│       ├── home_icon.png
+│       └── profile_icon.png
+│
+└── pubspec.yaml
 
-This project is a starting point for a Flutter application.
+--> Understood how to build and arrange UI screens.
 
-A few resources to get you started if this is your first Flutter project:
+--> Used Claude AI to check the correct UI layout and structure.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+--> Practiced changing height, width, padding of widgets and etc.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+--> Added some dependencies in the pubspec.yaml file.
