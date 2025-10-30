@@ -3,33 +3,7 @@
 --> Learned how to make the Flutter project file structure. See in the code form.
 Eg: 
 
-   day1/
-│
-├── lib/
-│   ├── main.dart
-│   │
-│   ├── models/
-│   │   ├── user.dart
-│   │   └── product.dart
-│   │
-│   ├── screens/
-│   │   ├── home_screen.dart
-│   │   └── profile_screen.dart
-│   │
-│   └── widgets/
-│       ├── custom_button.dart
-│       └── custom_card.dart
-│
-├── assets/
-│   ├── images/
-│   │   ├── logo.png
-│   │   └── banner.jpg
-│   │
-│   └── icons/
-│       ├── home_icon.png
-│       └── profile_icon.png
-│
-└── pubspec.yaml
+   day1/ --> lib/ --> screens/ -->  models/ --> assets/ --> icons/ --> images/ --> pubspec.yaml
 
 --> Understood how to build and arrange UI screens.
 
