@@ -1,16 +1,14 @@
-# day3
+# day-3
 
-A new Flutter project.
+Today Fully focused on Developing Circular UI . It takes Too much of Time 
 
-## Getting Started
+"File: circular_progress_widget"
 
-This project is a starting point for a Flutter application.
+Build 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+--> drawing arcs, circles, and gradients using Canvas
+--> layer multiple rings with gaps
+--> works on multiple colors (green → light green → yellow → orange)
+--> outer gradient progress ring with a start dot, a middle gray background circle, and an inner circle with a light blue anticlockwise progress arc.
+--> worked with radians using math.pi.
+package : import 'dart:math' as math
