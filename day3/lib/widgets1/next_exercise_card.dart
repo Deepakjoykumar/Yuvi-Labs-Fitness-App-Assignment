@@ -54,7 +54,7 @@ class ExerciseCard extends StatelessWidget {
               ),
             ],
           ),
-          const SizedBox(height: 8),
+          const SizedBox(height: 0),
           CircularProgressWidget(
             exerciseType: workout.currentExerciseType,
             distance: workout.currentDistance,
