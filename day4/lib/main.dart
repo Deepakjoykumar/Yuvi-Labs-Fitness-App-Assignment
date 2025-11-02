@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         fontFamily: 'SF Pro Text',
         primarySwatch: Colors.blue,
-        scaffoldBackgroundColoinitr: const Color(0xFFE5E5E5),
+        scaffoldBackgroundColor: const Color(0xFFE5E5E5),
 
       ),
       home: const WorkoutScreen(),
