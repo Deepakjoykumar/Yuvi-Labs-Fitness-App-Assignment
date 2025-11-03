@@ -12,7 +12,8 @@ class WorkoutHeader extends StatelessWidget {
       children: [
         _buildActionButtonsRow(),
         const SizedBox(height: 32),
-        //_buildActionButtons(),
+
+
         _buildWorkoutInfoRow(),
 
       ],
@@ -25,6 +26,7 @@ class WorkoutHeader extends StatelessWidget {
       children: [
         _buildBackButton(),
         _buildActionButtons(),
+
       ],
     );
   }
@@ -45,6 +47,7 @@ class WorkoutHeader extends StatelessWidget {
       padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 14),
       decoration: BoxDecoration(
         color: Colors.white,
+
         borderRadius: BorderRadius.circular(30),
       ),
       child: Row(
