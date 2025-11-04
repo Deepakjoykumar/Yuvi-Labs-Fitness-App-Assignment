@@ -27,7 +27,6 @@ class WorkoutHeader extends StatelessWidget {
     );
   }
 
-  Widget _buildBackButton() {
     return Container(
       padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
@@ -36,7 +35,6 @@ class WorkoutHeader extends StatelessWidget {
       ),
       child: const Icon(Icons.arrow_back, size: 24, color: Colors.black),
     );
-  }
 
   Widget _buildActionButtons() {
     return Container(

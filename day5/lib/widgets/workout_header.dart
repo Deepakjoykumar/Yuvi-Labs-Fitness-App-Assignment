@@ -12,7 +12,9 @@ class WorkoutHeader extends StatelessWidget {
       children: [
         _buildActionButtonsRow(),
         const SizedBox(height: 32),
+        //_buildActionButtons(),
         _buildWorkoutInfoRow(),
+
       ],
     );
   }
@@ -27,7 +29,7 @@ class WorkoutHeader extends StatelessWidget {
     );
   }
 
-  Widget _buildBackButton() {
+  Widget _buildBackButton() {//
     return Container(
       padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
@@ -36,7 +38,7 @@ class WorkoutHeader extends StatelessWidget {
       ),
       child: const Icon(Icons.arrow_back, size: 24, color: Colors.black),
     );
-  }
+  } //
 
   Widget _buildActionButtons() {
     return Container(
